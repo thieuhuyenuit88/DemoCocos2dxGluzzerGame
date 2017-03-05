@@ -1,0 +1,9 @@
+﻿Build started 8/12/2016 9:48:19 PM.
+     1>Project "E:\Cocos2d-X\GuzzlersProject\trunk\Guzzler\cocos2d\cocos\audio\proj.win32\CocosDenshion.vcxproj" on node 4 (Build target(s)).
+     1>Lib:
+         CocosDenshion.vcxproj -> E:\Cocos2d-X\GuzzlersProject\trunk\Guzzler\proj.win32\Debug.win32\libAudio.lib
+     1>Done Building Project "E:\Cocos2d-X\GuzzlersProject\trunk\Guzzler\cocos2d\cocos\audio\proj.win32\CocosDenshion.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
